@@ -1,0 +1,8 @@
+@inproceedings{REPO-183,
+    author = "Li, Linguo and Wang, Minsi and Ni, Bingbing and Wang, Hang and Yang, Jiancheng and Zhang, Wenjun",
+    booktitle = "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    doi = "10.1109/CVPR46437.2021.00471",
+    pages = "4739-4748",
+    title = "{3D Human Action Representation Learning via Cross-View Consistency Pursuit}",
+    year = "2021"
+}
